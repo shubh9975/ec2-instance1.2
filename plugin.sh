@@ -2,7 +2,7 @@
 
 filename="file/.terraform"
 
-if [ -d $filename ]
+if[ -d $filename ]
 then
 	exit 
 else
